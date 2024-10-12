@@ -1,6 +1,6 @@
 {
-  "name": "jsm_zoom_clone",
-  "version": "0.1.0",
+  "name": "video_call_app",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
