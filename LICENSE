@@ -1,0 +1,15 @@
+MIT License
+
+Copyright (c) 2024 Dan Lowery
+
+
+# Video-Conferencing-Fullstack-App
+
+This project is based on [Zoom-Clone] by [JSMastery].
+
+## Modifications and Additions:
+- Added video conferencing features using the Stream API
+- Integrated Clerk for user authentication
+- Updated UI design with Tailwind CSS color options
+- Refactored code for better performance
+
