@@ -1,8 +1,5 @@
-Here's an enhanced version of your README file that includes additional helpful information, following best practices and adding sections that provide context and clarity for contributors and users. I've added details such as environment variable setup, testing, troubleshooting, and deployment, which are often crucial for projects like yours.
-
----
-
 # Project Name
+Video Calling Application Clone
 
 ## Description
 
