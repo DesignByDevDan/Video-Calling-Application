@@ -1,0 +1,69 @@
+"filename", "language", "JSON", "JSON with Comments", "TypeScript", "XML", "TypeScript JSX", "JavaScript", "CSS", "Markdown", "comment", "blank", "total"
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/README.md", "Markdown", 0, 0, 0, 0, 0, 0, 0, 136, 0, 66, 202
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/actions/stream.actions.ts", "TypeScript", 0, 0, 16, 0, 0, 0, 0, 0, 0, 10, 26
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/app/(auth)/sign-in/[[...sign-in]]/page.tsx", "TypeScript JSX", 0, 0, 0, 0, 10, 0, 0, 0, 0, 3, 13
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/app/(auth)/sign-up/[[...sign-up]]/page.tsx", "TypeScript JSX", 0, 0, 0, 0, 10, 0, 0, 0, 0, 3, 13
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/app/(root)/(home)/layout.tsx", "TypeScript JSX", 0, 0, 0, 0, 25, 0, 0, 0, 0, 3, 28
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/app/(root)/(home)/page.tsx", "TypeScript JSX", 0, 0, 0, 0, 23, 0, 0, 0, 0, 3, 26
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/app/(root)/(home)/personal-room/page.tsx", "TypeScript JSX", 0, 0, 0, 0, 72, 0, 0, 0, 0, 8, 80
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/app/(root)/(home)/previous/page.tsx", "TypeScript JSX", 0, 0, 0, 0, 13, 0, 0, 0, 0, 2, 15
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/app/(root)/(home)/recordings/page.tsx", "TypeScript JSX", 0, 0, 0, 0, 13, 0, 0, 0, 0, 4, 17
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/app/(root)/(home)/upcoming/page.tsx", "TypeScript JSX", 0, 0, 0, 0, 13, 0, 0, 0, 0, 2, 15
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/app/(root)/layout.tsx", "TypeScript JSX", 0, 0, 0, 0, 18, 0, 0, 0, 0, 3, 21
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/app/(root)/meeting/[id]/page.tsx", "TypeScript JSX", 0, 0, 0, 0, 28, 0, 0, 0, 0, 8, 36
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/app/globals.css", "CSS", 0, 0, 0, 0, 0, 0, 90, 0, 4, 23, 117
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/app/layout.tsx", "TypeScript JSX", 0, 0, 0, 0, 45, 0, 0, 0, 0, 6, 51
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components.json", "JSON", 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/CallList.tsx", "TypeScript JSX", 0, 0, 0, 0, 97, 0, 0, 0, 0, 15, 112
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/EndCallButton.tsx", "TypeScript JSX", 0, 0, 0, 0, 28, 0, 0, 0, 0, 8, 36
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/HomeCard.tsx", "TypeScript JSX", 0, 0, 0, 0, 32, 0, 0, 0, 0, 4, 36
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/Loader.tsx", "TypeScript JSX", 0, 0, 0, 0, 15, 0, 0, 0, 0, 2, 17
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/MeetingCard.tsx", "TypeScript JSX", 0, 0, 0, 0, 87, 0, 0, 0, 0, 7, 94
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/MeetingModal.tsx", "TypeScript JSX", 0, 0, 0, 0, 57, 0, 0, 0, 0, 5, 62
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/MeetingRoom.tsx", "TypeScript JSX", 0, 0, 0, 0, 93, 0, 0, 0, 0, 9, 102
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/MeetingSetup.tsx", "TypeScript JSX", 0, 0, 0, 0, 55, 0, 0, 0, 0, 8, 63
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/MeetingTypeList.tsx", "TypeScript JSX", 0, 0, 0, 0, 168, 0, 0, 0, 0, 17, 185
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/MobileNav.tsx", "TypeScript JSX", 0, 0, 0, 0, 75, 0, 0, 0, 0, 3, 78
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/Navbar.tsx", "TypeScript JSX", 0, 0, 0, 0, 28, 0, 0, 0, 0, 2, 30
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/Sidebar.tsx", "TypeScript JSX", 0, 0, 0, 0, 43, 0, 0, 0, 0, 3, 46
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/ui/button.tsx", "TypeScript JSX", 0, 0, 0, 0, 51, 0, 0, 0, 0, 6, 57
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/ui/dialog.tsx", "TypeScript JSX", 0, 0, 0, 0, 109, 0, 0, 0, 0, 14, 123
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/ui/dropdown-menu.tsx", "TypeScript JSX", 0, 0, 0, 0, 182, 0, 0, 0, 0, 19, 201
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/ui/input.tsx", "TypeScript JSX", 0, 0, 0, 0, 21, 0, 0, 0, 0, 5, 26
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/ui/sheet.tsx", "TypeScript JSX", 0, 0, 0, 0, 125, 0, 0, 0, 0, 16, 141
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/ui/textarea.tsx", "TypeScript JSX", 0, 0, 0, 0, 20, 0, 0, 0, 0, 5, 25
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/ui/toast.tsx", "TypeScript JSX", 0, 0, 0, 0, 116, 0, 0, 0, 0, 14, 130
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/ui/toaster.tsx", "TypeScript JSX", 0, 0, 0, 0, 36, 0, 0, 0, 0, 4, 40
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/ui/use-toast.ts", "TypeScript", 0, 0, 160, 0, 0, 0, 0, 0, 3, 32, 195
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/constants/index.ts", "TypeScript", 0, 0, 34, 0, 0, 0, 0, 0, 0, 0, 34
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/hooks/useGetCallById.ts", "TypeScript", 0, 0, 22, 0, 0, 0, 0, 0, 0, 8, 30
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/hooks/useGetCalls.ts", "TypeScript", 0, 0, 48, 0, 0, 0, 0, 0, 0, 8, 56
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/lib/utils.ts", "TypeScript", 0, 0, 5, 0, 0, 0, 0, 0, 0, 2, 7
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/middleware.ts", "TypeScript", 0, 0, 18, 0, 0, 0, 0, 0, 2, 2, 22
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/next.config.mjs", "JavaScript", 0, 0, 0, 0, 0, 2, 0, 0, 1, 2, 5
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/package-lock.json", "JSON", 6384, 0, 0, 0, 0, 0, 0, 0, 0, 1, 6385
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/package.json", "JSON", 40, 0, 0, 0, 0, 0, 0, 0, 0, 1, 41
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/postcss.config.mjs", "JavaScript", 0, 0, 0, 0, 0, 6, 0, 0, 1, 2, 9
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/providers/StreamClientProvider.tsx", "TypeScript JSX", 0, 0, 0, 0, 30, 0, 0, 0, 0, 9, 39
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/Home.svg", "XML", 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 4
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/Video.svg", "XML", 0, 0, 0, 4, 0, 0, 0, 0, 0, 1, 5
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/add-meeting.svg", "XML", 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 4
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/add-personal.svg", "XML", 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 4
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/call-ended.svg", "XML", 0, 0, 0, 6, 0, 0, 0, 0, 1, 5, 12
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/checked.svg", "XML", 0, 0, 0, 9, 0, 0, 0, 0, 0, 1, 10
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/copy.svg", "XML", 0, 0, 0, 4, 0, 0, 0, 0, 0, 1, 5
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/hamburger.svg", "XML", 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 5
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/join-meeting.svg", "XML", 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 4
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/loading-circle.svg", "XML", 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/logo.svg", "XML", 0, 0, 0, 101, 0, 0, 0, 0, 0, 1, 102
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/play.svg", "XML", 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 4
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/previous.svg", "XML", 0, 0, 0, 5, 0, 0, 0, 0, 0, 1, 6
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/recordings.svg", "XML", 0, 0, 0, 4, 0, 0, 0, 0, 0, 1, 5
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/schedule.svg", "XML", 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 4
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/share.svg", "XML", 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 4
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/three-dots.svg", "XML", 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 4
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/upcoming.svg", "XML", 0, 0, 0, 5, 0, 0, 0, 0, 0, 1, 6
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/yoom-logo.svg", "XML", 0, 0, 0, 102, 0, 0, 0, 0, 0, 1, 103
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/tailwind.config.ts", "TypeScript", 0, 0, 113, 0, 0, 0, 0, 0, 0, 3, 116
+"/Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/tsconfig.json", "JSON with Comments", 0, 26, 0, 0, 0, 0, 0, 0, 0, 1, 27
+"Total", "-", 6441, 26, 416, 270, 1738, 8, 90, 136, 12, 402, 9539

@@ -106,6 +106,7 @@ const config = {
         hero_3: "url('/images/hero-background-3.png')", // New background
         hero_4: "url('/images/hero-background-4.png')", // New background
         hero_5: "url('/images/hero-background-5.png')", // New background
+        hero_6: "url('/images/hero-background-6.png')", // New background
       },
     },
   },

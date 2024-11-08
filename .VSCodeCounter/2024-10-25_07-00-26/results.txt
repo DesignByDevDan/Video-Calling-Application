@@ -1,0 +1,126 @@
+Date : 2024-10-25 07:00:26
+Directory : /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app
+Total : 67 files,  9125 codes, 12 comments, 402 blanks, all 9539 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          3 |      6,441 |          0 |          2 |      6,443 |
+| TypeScript JSX     |         32 |      1,738 |          0 |        220 |      1,958 |
+| TypeScript         |          8 |        416 |          5 |         65 |        486 |
+| XML                |         19 |        270 |          1 |         21 |        292 |
+| Markdown           |          1 |        136 |          0 |         66 |        202 |
+| CSS                |          1 |         90 |          4 |         23 |        117 |
+| JSON with Comments |          1 |         26 |          0 |          1 |         27 |
+| JavaScript         |          2 |          8 |          2 |          4 |         14 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                            | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                               |         67 |      9,125 |         12 |        402 |      9,539 |
+| . (Files)                                                                                                                       |          9 |      6,742 |          4 |         78 |      6,824 |
+| actions                                                                                                                         |          1 |         16 |          0 |         10 |         26 |
+| app                                                                                                                             |         12 |        360 |          4 |         68 |        432 |
+| app (Files)                                                                                                                     |          2 |        135 |          4 |         29 |        168 |
+| app/(auth)                                                                                                                      |          2 |         20 |          0 |          6 |         26 |
+| app/(auth)/sign-in                                                                                                              |          1 |         10 |          0 |          3 |         13 |
+| app/(auth)/sign-in/[[...sign-in]]                                                                                               |          1 |         10 |          0 |          3 |         13 |
+| app/(auth)/sign-up                                                                                                              |          1 |         10 |          0 |          3 |         13 |
+| app/(auth)/sign-up/[[...sign-up]]                                                                                               |          1 |         10 |          0 |          3 |         13 |
+| app/(root)                                                                                                                      |          8 |        205 |          0 |         33 |        238 |
+| app/(root) (Files)                                                                                                              |          1 |         18 |          0 |          3 |         21 |
+| app/(root)/(home)                                                                                                               |          6 |        159 |          0 |         22 |        181 |
+| app/(root)/(home) (Files)                                                                                                       |          2 |         48 |          0 |          6 |         54 |
+| app/(root)/(home)/personal-room                                                                                                 |          1 |         72 |          0 |          8 |         80 |
+| app/(root)/(home)/previous                                                                                                      |          1 |         13 |          0 |          2 |         15 |
+| app/(root)/(home)/recordings                                                                                                    |          1 |         13 |          0 |          4 |         17 |
+| app/(root)/(home)/upcoming                                                                                                      |          1 |         13 |          0 |          2 |         15 |
+| app/(root)/meeting                                                                                                              |          1 |         28 |          0 |          8 |         36 |
+| app/(root)/meeting/[id]                                                                                                         |          1 |         28 |          0 |          8 |         36 |
+| components                                                                                                                      |         21 |      1,598 |          3 |        198 |      1,799 |
+| components (Files)                                                                                                              |         12 |        778 |          0 |         83 |        861 |
+| components/ui                                                                                                                   |          9 |        820 |          3 |        115 |        938 |
+| constants                                                                                                                       |          1 |         34 |          0 |          0 |         34 |
+| hooks                                                                                                                           |          2 |         70 |          0 |         16 |         86 |
+| lib                                                                                                                             |          1 |          5 |          0 |          2 |          7 |
+| providers                                                                                                                       |          1 |         30 |          0 |          9 |         39 |
+| public                                                                                                                          |         19 |        270 |          1 |         21 |        292 |
+| public/icons                                                                                                                    |         19 |        270 |          1 |         21 |        292 |
++---------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                                                                        | language           | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/README.md                                  | Markdown           |        136 |          0 |         66 |        202 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/actions/stream.actions.ts                  | TypeScript         |         16 |          0 |         10 |         26 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/app/(auth)/sign-in/[[...sign-in]]/page.tsx | TypeScript JSX     |         10 |          0 |          3 |         13 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/app/(auth)/sign-up/[[...sign-up]]/page.tsx | TypeScript JSX     |         10 |          0 |          3 |         13 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/app/(root)/(home)/layout.tsx               | TypeScript JSX     |         25 |          0 |          3 |         28 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/app/(root)/(home)/page.tsx                 | TypeScript JSX     |         23 |          0 |          3 |         26 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/app/(root)/(home)/personal-room/page.tsx   | TypeScript JSX     |         72 |          0 |          8 |         80 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/app/(root)/(home)/previous/page.tsx        | TypeScript JSX     |         13 |          0 |          2 |         15 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/app/(root)/(home)/recordings/page.tsx      | TypeScript JSX     |         13 |          0 |          4 |         17 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/app/(root)/(home)/upcoming/page.tsx        | TypeScript JSX     |         13 |          0 |          2 |         15 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/app/(root)/layout.tsx                      | TypeScript JSX     |         18 |          0 |          3 |         21 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/app/(root)/meeting/[id]/page.tsx           | TypeScript JSX     |         28 |          0 |          8 |         36 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/app/globals.css                            | CSS                |         90 |          4 |         23 |        117 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/app/layout.tsx                             | TypeScript JSX     |         45 |          0 |          6 |         51 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components.json                            | JSON               |         17 |          0 |          0 |         17 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/CallList.tsx                    | TypeScript JSX     |         97 |          0 |         15 |        112 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/EndCallButton.tsx               | TypeScript JSX     |         28 |          0 |          8 |         36 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/HomeCard.tsx                    | TypeScript JSX     |         32 |          0 |          4 |         36 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/Loader.tsx                      | TypeScript JSX     |         15 |          0 |          2 |         17 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/MeetingCard.tsx                 | TypeScript JSX     |         87 |          0 |          7 |         94 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/MeetingModal.tsx                | TypeScript JSX     |         57 |          0 |          5 |         62 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/MeetingRoom.tsx                 | TypeScript JSX     |         93 |          0 |          9 |        102 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/MeetingSetup.tsx                | TypeScript JSX     |         55 |          0 |          8 |         63 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/MeetingTypeList.tsx             | TypeScript JSX     |        168 |          0 |         17 |        185 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/MobileNav.tsx                   | TypeScript JSX     |         75 |          0 |          3 |         78 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/Navbar.tsx                      | TypeScript JSX     |         28 |          0 |          2 |         30 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/Sidebar.tsx                     | TypeScript JSX     |         43 |          0 |          3 |         46 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/ui/button.tsx                   | TypeScript JSX     |         51 |          0 |          6 |         57 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/ui/dialog.tsx                   | TypeScript JSX     |        109 |          0 |         14 |        123 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/ui/dropdown-menu.tsx            | TypeScript JSX     |        182 |          0 |         19 |        201 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/ui/input.tsx                    | TypeScript JSX     |         21 |          0 |          5 |         26 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/ui/sheet.tsx                    | TypeScript JSX     |        125 |          0 |         16 |        141 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/ui/textarea.tsx                 | TypeScript JSX     |         20 |          0 |          5 |         25 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/ui/toast.tsx                    | TypeScript JSX     |        116 |          0 |         14 |        130 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/ui/toaster.tsx                  | TypeScript JSX     |         36 |          0 |          4 |         40 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/components/ui/use-toast.ts                 | TypeScript         |        160 |          3 |         32 |        195 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/constants/index.ts                         | TypeScript         |         34 |          0 |          0 |         34 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/hooks/useGetCallById.ts                    | TypeScript         |         22 |          0 |          8 |         30 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/hooks/useGetCalls.ts                       | TypeScript         |         48 |          0 |          8 |         56 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/lib/utils.ts                               | TypeScript         |          5 |          0 |          2 |          7 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/middleware.ts                              | TypeScript         |         18 |          2 |          2 |         22 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/next.config.mjs                            | JavaScript         |          2 |          1 |          2 |          5 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/package-lock.json                          | JSON               |      6,384 |          0 |          1 |      6,385 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/package.json                               | JSON               |         40 |          0 |          1 |         41 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/postcss.config.mjs                         | JavaScript         |          6 |          1 |          2 |          9 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/providers/StreamClientProvider.tsx         | TypeScript JSX     |         30 |          0 |          9 |         39 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/Home.svg                      | XML                |          3 |          0 |          1 |          4 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/Video.svg                     | XML                |          4 |          0 |          1 |          5 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/add-meeting.svg               | XML                |          3 |          0 |          1 |          4 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/add-personal.svg              | XML                |          3 |          0 |          1 |          4 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/call-ended.svg                | XML                |          6 |          1 |          5 |         12 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/checked.svg                   | XML                |          9 |          0 |          1 |         10 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/copy.svg                      | XML                |          4 |          0 |          1 |          5 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/hamburger.svg                 | XML                |          5 |          0 |          0 |          5 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/join-meeting.svg              | XML                |          3 |          0 |          1 |          4 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/loading-circle.svg            | XML                |          1 |          0 |          0 |          1 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/logo.svg                      | XML                |        101 |          0 |          1 |        102 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/play.svg                      | XML                |          3 |          0 |          1 |          4 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/previous.svg                  | XML                |          5 |          0 |          1 |          6 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/recordings.svg                | XML                |          4 |          0 |          1 |          5 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/schedule.svg                  | XML                |          3 |          0 |          1 |          4 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/share.svg                     | XML                |          3 |          0 |          1 |          4 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/three-dots.svg                | XML                |          3 |          0 |          1 |          4 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/upcoming.svg                  | XML                |          5 |          0 |          1 |          6 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/public/icons/yoom-logo.svg                 | XML                |        102 |          0 |          1 |        103 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/tailwind.config.ts                         | TypeScript         |        113 |          0 |          3 |        116 |
+| /Users/daniellowery/DEVELOPER PROFESSIONAL PROJECTS/video-conferencing-fullstack-app/tsconfig.json                              | JSON with Comments |         26 |          0 |          1 |         27 |
+| Total                                                                                                                           |                    |      9,125 |         12 |        402 |      9,539 |
++---------------------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
